@@ -1,1 +1,1 @@
-# php-encorder
+# php-mb-encoder
